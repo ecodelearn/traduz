@@ -20,7 +20,7 @@ languages = {
 }
 
 # Caminho do diretório de entrada MUDAR PARA O DIRETÓRIO ONDE FICA O SEU MP4 (VÍDEO ORIGINAL).
-input_directory = '/home/dds/sandeco/'
+input_directory = '/home/usuário/pasta-video-mp4/'
 
 # Opções desabilitadas
 disable_embed = '--disable_embed'
